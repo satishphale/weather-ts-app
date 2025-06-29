@@ -13,3 +13,5 @@ A simple Express + TypeScript REST API to fetch and store weather data.
 git clone https://github.com/satishphale/weather-ts-app.git
 cd weather-api
 npm install
+
+![screenshot](images/image1.png)
