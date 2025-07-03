@@ -7,11 +7,20 @@ A simple Express + TypeScript REST API to fetch and store weather data.
 - Store weather data by user
 - Simple Docker-based setup
 
-## Installation
+
+## Prerequisites
+- Docker Desktop  
+- Git 
+- VS code
+
+
+
+## Setup
 
 ```bash
-git clone https://github.com/satishphale/weather-ts-app.git
-cd weather-api
-npm install
+> git clone https://github.com/satishphale/weather-ts-app.git
+> cd weather-app
+> docker-compose up --build
+```
 
-![Image](images/image1.png)
+
