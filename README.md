@@ -1,6 +1,6 @@
 # Weather API
 
-A simple Express + TypeScript REST API to fetch and store weather data.
+A REST API app to fetch and store weather data.
 
 ## Features
 - Update and Fetch weather info
@@ -12,6 +12,7 @@ A simple Express + TypeScript REST API to fetch and store weather data.
 - Docker Desktop  
 - Git 
 - VS code
+- Postman
 
 
 
@@ -22,5 +23,11 @@ A simple Express + TypeScript REST API to fetch and store weather data.
 > cd weather-app
 > docker-compose up --build
 ```
+
+## Technologies
+ - Typescript
+ - Express.js framework
+ - Mysql database
+ - Docker  
 
 
