@@ -7,13 +7,17 @@ A REST API app to fetch and store weather data.
 - Store weather data by user
 - Simple Docker-based setup
 
-
 ## Prerequisites
 - Docker Desktop  
 - Git 
 - VS code
 - Postman
 
+## Technologies
+ - Typescript
+ - Express.js framework
+ - Mysql database
+ - Docker  
 
 
 ## Setup
@@ -24,10 +28,6 @@ A REST API app to fetch and store weather data.
 > docker-compose up --build
 ```
 
-## Technologies
- - Typescript
- - Express.js framework
- - Mysql database
- - Docker  
+
 
 
