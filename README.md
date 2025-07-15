@@ -27,7 +27,24 @@ A REST API app to fetch and store weather data.
 > cd weather-app
 > docker-compose up --build
 ```
+## Demo
+### Docker images
+![Docker images](images/DockerImages.png)
 
+### Docker container
+![Docker container](images/DockerContainer.png)
+
+### GET call
+![Get call](images/GetCall.png)
+
+### POST call
+![Post call](images/PostCall.png)
+
+### DB login
+![Mysql Login](images/MysqlLogin.png)
+
+### Test results
+![Test results](images/TestResults.png)
 
 
 
